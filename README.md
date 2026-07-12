@@ -11,7 +11,7 @@
 
 </div>
 
-## 🎓 About Me
+## About Me
 ```ts
 // about-me.ts
 const user = {
@@ -20,48 +20,117 @@ const user = {
   location: "Ho Chi Minh City, Vietnam",
   university: "University of Information Technology",
   pronouns: "He/Him",
-  employed: false,
+  employed: true,
 };
 ```
+## Featured
 
-<table width="100%" align="center">
+<table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%" align="center" valign="top">
+<h3 align="center">🎓 Idest</h3>
 
-### My Featured Projects
-[![Idest](https://github-readme-stats.vercel.app/api/pin/?username=Idest-education&repo=Idest&bg_color=0,FF9C21,FF7A00&title_color=000000&text_color=000000&icon_color=000000)](https://github.com/Idest-education/Idest)
+<p align="center">
+AI-powered IELTS learning platform that combines online classrooms, automated assessment, and comprehensive practice materials. Designed to provide a complete digital learning experience with scalable backend services.
+</p>
 
-[![UIT-Go](https://github-readme-stats.vercel.app/api/pin/?username=Ama2352&repo=UIT-Go&bg_color=0,00203B,003A6B&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/Ama2352/UIT-Go)
+<p align="center">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</p>
 
-[![Coinhub](https://github-readme-stats.vercel.app/api/pin/?username=coinhub-uit&repo=mobile&bg_color=0,FFB624,FFD76A&title_color=000000&text_color=000000&icon_color=000000)](https://github.com/coinhub-uit/mobile)
+<p align="center"><b>Key Features:</b></p>
 
-[![Bookstore Management](https://github-readme-stats.vercel.app/api/pin/?username=AnhQuocHuynh&repo=Bookstore-Management&bg_color=0,0D1118,1F2933&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/AnhQuocHuynh/Bookstore-Management)
-
+<ul>
+<li>📚 Digital library of IELTS practice tests</li>
+<li>🤖 ML-powered Speaking & Writing score prediction</li>
+<li>🎥 Real-time online classrooms using WebRTC</li>
+<li>⚡ Asynchronous grading pipeline with RabbitMQ</li>
+</ul>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### Listen With Me
+<h3 align="center">💄 Cocono ERP</h3>
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001358.49fc32f7264743549ebeaf2b2b5a22f2.0511)](https://music-profile.rayriffy.com)
+<p align="center">
+Enterprise Resource Planning system for a fictional cosmetics manufacturer, covering procurement, inventory management, logistics operations, and business document workflows in a modular architecture.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center"><b>Key Features:</b></p>
+
+<ul>
+<li>📦 Multi-warehouse inventory management (WM)</li>
+<li>🛒 Procurement and supplier sourcing workflow</li>
+<li>🚚 Logistics and distribution planning</li>
+<li>📄 Business documents with approval workflow</li>
+</ul>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🚖 UIT-GO</h3>
+
+<p align="center">
+Microservice-based ride-hailing platform built with event-driven communication, standardized authentication, and real-time notifications for scalable transportation services.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center"><b>Key Features:</b></p>
+
+<ul>
+<li>🔔 Real-time notification service with WebSockets</li>
+<li>📨 Event-driven messaging via RabbitMQ</li>
+<li>🔐 Shared RSA-based JWT authentication</li>
+<li>🗄️ PostgreSQL primary–replica deployment</li>
+</ul>
 
 </td>
 
+<td width="50%" valign="top">
+
+<!-- Future project -->
+
+</td>
 </tr>
 </table>
 
-## 💻 Tech Stack
+<table width="100%">
+<tr>
+
+<td width="75%" align="center" valign="top">
+
+## Tech Stack
+
 <div align="center">
-  
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00)](https://www.java.com/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=E0234E)](https://nestjs.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)](https://fastapi.tiangolo.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=6DB33F)](https://spring.io/projects/spring-boot)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)](https://nextjs.org/)
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)](https://www.postgresql.org/)
@@ -75,7 +144,22 @@ const user = {
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFCC00)](https://huggingface.co/)
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=000000)](https://ollama.com/)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000)](https://www.apple.com/macos/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)](https://www.figma.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37)](https://www.postman.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)](https://git-scm.com/)
+
+</div>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+## Listen With Me
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001358.49fc32f7264743549ebeaf2b2b5a22f2.0511)](https://music-profile.rayriffy.com)
+
+</td>
+
+</tr>
+</table>
+
 </div>
