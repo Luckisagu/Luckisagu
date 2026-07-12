@@ -29,7 +29,7 @@ const user = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🎓 Idest</h3>
+<h3 align="center"><a href="https://github.com/Idest-education/Idest"><img src="assets/idest.png" width="24" valign="middle"/></a> Idest</h3>
 
 <p align="center">
 AI-powered IELTS learning platform that combines online classrooms, automated assessment, and comprehensive practice materials. Designed to provide a complete digital learning experience with scalable backend services.
@@ -41,6 +41,8 @@ AI-powered IELTS learning platform that combines online classrooms, automated as
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
 </p>
 
 <p align="center"><b>Key Features:</b></p>
@@ -56,7 +58,9 @@ AI-powered IELTS learning platform that combines online classrooms, automated as
 
 <td width="50%" valign="top">
 
-<h3 align="center">💄 Cocono ERP</h3>
+<h3 align="center"> Cocono </h3>
+
+<p align="center"><i>🚧 Under Development 🏗️</i></p>
 
 <p align="center">
 Enterprise Resource Planning system for a fictional cosmetics manufacturer, covering procurement, inventory management, logistics operations, and business document workflows in a modular architecture.
@@ -85,7 +89,7 @@ Enterprise Resource Planning system for a fictional cosmetics manufacturer, cove
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🚖 UIT-GO</h3>
+<h3 align="center"><a href="https://github.com/Ama2352/UIT-Go"><img src="assets/uit.png" width="24" valign="middle"/></a> UIT-GO</h3>
 
 <p align="center">
 Microservice-based ride-hailing platform built with event-driven communication, standardized authentication, and real-time notifications for scalable transportation services.
