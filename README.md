@@ -20,25 +20,7 @@
 
 <td width="60%" valign="top">
 
-```console
-╭──────────────────────────────────────────────────────────────╮
-│  ●  ●  ●                                     Terminal        │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│ Lucki@MacBook-Air ~ % whoami                                 │
-│                                                              │
-│ Name         Huỳnh Chí Hên                                   │
-│ Role         SWE                                             │
-│ University   University of Information Technology            │
-│ Location     Ho Chi Minh City, Vietnam                       │
-│ Pronouns     He/Him                                          │
-│ Employment   Employed                                        │
-│                                                              │
-│ Lucki@MacBook-Air ~ % █                                      │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-
-```
+<img src="assets/terminal.svg" alt="Whoami Terminal" width="700">
 
 </td>
 
