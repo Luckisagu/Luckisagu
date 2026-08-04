@@ -137,7 +137,6 @@ Microservice-based ride-hailing platform built with event-driven communication, 
 <table width="100%">
 <tr>
 
-<td width="75%" align="center" valign="top">
 
 ## Tech Stack
 
@@ -165,15 +164,6 @@ Microservice-based ride-hailing platform built with event-driven communication, 
 
 </div>
 
-</td>
-
-<td width="25%" align="center" valign="top">
-
-## Listen With Me
-
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001358.49fc32f7264743549ebeaf2b2b5a22f2.0511)](https://music-profile.rayriffy.com)
-
-</td>
 
 </tr>
 </table>
